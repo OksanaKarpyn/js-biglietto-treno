@@ -1,0 +1,10 @@
+@import url(./nullstyle.css);
+
+.wrapper {
+    max-width: 1400px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
